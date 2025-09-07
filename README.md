@@ -47,12 +47,12 @@ This tool is primarily used in educational labs to visualize current paths and u
 
 ---
 
-## 🏷️ Tags
+## 📷 Demo
 
-`#Electromagnetism` `#CircuitDesign` `#CurrentDetection` `#EngineeringEducation` `#PhysicsLab`
+ <img src="https://i.postimg.cc/0jQGVFTN/image.png" width="300" />    <img src="https://postimg.cc/LgjgZtnJ" width="300" />
 
----
 
 <div align="right">
-Created by [Ziad Rehaan](mailto:zezorehan938@gmail.com)  
+<a href="mailto:zezorehan938@gmail.com">𝓩𝓲𝓪𝓭𝓻𝓮𝓱𝓪𝓪𝓷</a>  
+
 </div>
