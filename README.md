@@ -37,19 +37,12 @@ This tool is primarily used in educational labs to visualize current paths and u
 - Circuit Design Basics  
 - Field Testing & Measurement  
 
----
-
-## 🧑‍🎓 Ideal For
-
-- Electrical & Electronics Engineering students  
-- Educational labs focusing on electromagnetism  
-- Physics and electromagnetism projects
 
 ---
 
 ## 📷 Demo
 
- <img src="https://i.postimg.cc/0jQGVFTN/image.png" width="300" />    <img src="https://postimg.cc/LgjgZtnJ" width="300" />
+ <img src="https://i.postimg.cc/0jQGVFTN/image.png" width="300" />    <img src="https://i.postimg.cc/BbVTkN3B/image.png" width="300" />
 
 
 <div align="right">
