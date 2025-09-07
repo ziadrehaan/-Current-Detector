@@ -1,6 +1,5 @@
 # ⚡ Current Detector
 
-![Current Detector](https://your-image-link-here.com) <!-- استبدل هذا بالرابط المباشر للصورة بعد رفعها على GitHub -->
 
 > **Associated with:**  
 > *Higher Institute of Engineering and Technology – Kafr Elsheikh*
